@@ -31,6 +31,15 @@ h1{
     font-family:Times New Roman;
 }
 
+.page-projects{
+  background : url("http://www.tokkoro.com/picsup/3109627-botanical_cactus_copy-space_desk_desktop_flatlay_fruit_hero-image_laptop_mockup_photography_pineapple_plant_succulent_table_technology_terrarium_wood_workspace.jpg");
+  background-size:cover;
+  height:100%;
+  opacity:0.9;
+}
+
+
+
 /*
 Styling for pinterest like cards
 */
